@@ -35,7 +35,7 @@ on:
 ### 环境变量设置
 env:
 # 编译时调用的 [.config] 文件名称
-  CONFIG_FILE: ruijie_rg-mtfi-m520
+  CONFIG_FILE: ruijie-rg-mtfi-m520
 # 源码仓库:分支
   DEFAULT_SOURCE: Doanduy09/lede:master
 # 上传固件到 Github Releases
