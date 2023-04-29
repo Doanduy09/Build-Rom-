@@ -16,10 +16,4 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-src-git modemfeed https://github.com/koshev-msk/modemfeed.git
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
-src-git https://github.com/4IceG/luci-app-3ginfo-lite.git
-src-git https://github.com/4IceG/luci-app-atcommands.git
-src-git https://github.com/4IceG/luci-app-modemband.git
-src-git https://github.com/4IceG/luci-app-sms-tool.git
+
