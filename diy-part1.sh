@@ -19,3 +19,7 @@
 src-git modemfeed https://github.com/koshev-msk/modemfeed.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git https://github.com/4IceG/luci-app-3ginfo-lite.git
+src-git https://github.com/4IceG/luci-app-atcommands.git
+src-git https://github.com/4IceG/luci-app-modemband.git
+src-git https://github.com/4IceG/luci-app-sms-tool.git
